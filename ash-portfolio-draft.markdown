@@ -1,7 +1,1 @@
-Ash - Portfolio Draft3
-----------------------
-
-
-A [Pen](https://codepen.io/aeleblanc/pen/apzgzg) by [Ashley LeBlanc](http://codepen.io/aeleblanc) on [CodePen](http://codepen.io/).
-
-[License](https://codepen.io/aeleblanc/pen/apzgzg/license).
+Pulled from html5up to host live portfolio while working on personalized portfolio and continuing personal development. credit embedded in code.
